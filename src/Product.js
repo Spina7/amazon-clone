@@ -13,7 +13,7 @@ function Product({title, image, price, rating}) {
                     {Array(rating).fill().map((_,i) => (<p>⭐</p>))}
                 </div>
                 </div>
-                <img src="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"/>
+                <img src={image}/>
         
             
             <button>Añadir al Carrito</button>
