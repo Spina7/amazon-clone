@@ -32,11 +32,10 @@
 }
 
 .product__price{
-    margin-top: 5pxs;
+    margin-top: 5px;
 }
 
 .product__info{
-    width: 100%;
     height: 100px;
     margin-bottom: 15px;
 }
